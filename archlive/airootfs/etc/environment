@@ -1,8 +1,0 @@
-#
-# This file is parsed by pam_env module
-#
-# Syntax: simple "KEY=VAL" pairs on separate lines
-#
-
-GTK_USE_PORTAL=1
-QT_QPA_PLATFORMTHEME=qt5ct
